@@ -93,3 +93,11 @@ Grasp how servers can manage concurrent connections
 Conclusion: 
 
 This multithreaded chat application serves as a practical demonstration of Java’s networking and concurrency features. It is a strong foundational project that can be expanded further — by adding GUI support using Swing/JavaFX, encryption for security, file transfers, or even database integration for chat history. Overall, it’s a great hands-on learning tool for anyone entering the field of network and systems programming.
+
+Output:
+
+<img width="1919" height="1010" alt="Image" src="https://github.com/user-attachments/assets/e37c47b7-586c-442c-8877-e13720d2bc81" />
+
+<img width="1919" height="1007" alt="Image" src="https://github.com/user-attachments/assets/8590087e-0a69-409b-bddd-47fbe5a9ade5" />
+
+<img width="1915" height="1004" alt="Image" src="https://github.com/user-attachments/assets/1f3aed75-dbf4-4481-b0ac-3c0709df73f5" />
